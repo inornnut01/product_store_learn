@@ -11,10 +11,6 @@ app.use(express.json()); // allows us to accpect JSON data in the req.body
 
 app.use("/api/products", productRoutes)
 
-
-
-
-
 // Postman
 
 app.listen(3000, () => {
