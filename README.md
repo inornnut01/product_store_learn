@@ -1,7 +1,5 @@
 <h1 align="center">for Learn MERN Crash Course 🚀</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 [Youtube FREE Coding Bootcamp](https://youtu.be/MDZC8VDZnV8?si=2TCVndluJxn9zbpo)
 In detail for learning in this project
 About This Course:
